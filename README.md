@@ -1,4 +1,4 @@
-1. Đề tài: Dự đoán bóng đá 2 giải đấu hấp dẫn nhất thế giới!
+1. Đề tài: Trang web dự đoán kết quả bóng đá.
 2. Mục tiêu
 -Dự đoán kết quả của các trận đấu bóng đá dựa trên dữ liệu lịch sử và các yếu tố khác như phong độ hiện tại của các đội bóng, chấn thương.
 3. Nguồn dữ liệu
