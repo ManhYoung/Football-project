@@ -4,7 +4,7 @@
 3. Nguồn dữ liệu
 - API: https://www.football-data.org/
 - Nguồn dữ liệu:
-  + https://www.kaggle.com/datasets?search=football.
+  //Không dùng kaggle
   + https://openweathermap.org/api
   .....
 4. Mô tả:
